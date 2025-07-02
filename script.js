@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', () => {
     title.addEventListener('click', () => {
         fetching('sr.json')
 
-        document.querySelector('.without-ads').innerHTML = `Slowed And Reverb Songs - Ad-free`
+        document.querySelector('.without-ads').innerHTML = `Slowed And Reverb Songs ❤️☕`
     })
 
     playlistButton.addEventListener('click', () => {
